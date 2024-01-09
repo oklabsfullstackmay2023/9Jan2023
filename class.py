@@ -9,6 +9,8 @@ class MyClass():
 
 #2. create class object is many time process
 ceo1=MyClass()
+ceo2=MyClass()
 
 #3.2 method calling/inovking is many time process
 ceo1.myFunction() 
+ceo2.myFunction() 
